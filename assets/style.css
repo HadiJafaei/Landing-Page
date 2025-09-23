@@ -1,0 +1,66 @@
+body {
+background-color: #9797c6;
+}
+ul li {
+list-style-type: none;
+display: inline;
+}
+h1 {
+font-size: 180px;
+color: white;
+}
+main {
+text-align: center;
+}
+header {
+text-align: center;
+}
+article img {
+background-color: white;
+padding: 20px;
+
+}
+article {
+text-align: center;
+}
+article span {
+display: block;
+}
+article h2 {
+color: white;
+font-size: 30px;
+}
+.bottom {
+background-color: white;
+}
+.title {
+color: #9797c6;
+font-size: 30px;
+text-align: center;
+}
+.reviews {
+border: 1px solid #616194;
+border-radius: 25px;
+color: #616194;
+margin: 5px;
+padding-left: 30px;
+padding-bottom: 8px;
+}
+.contact {
+text-align: center;
+}
+button {
+border-radius: 40px;
+border-color: #616194;
+color: #9797c6;
+}
+input {
+border-radius: 40px;
+border-color: #cecef9;
+padding: 7px;
+margin-bottom: 7px;
+}
+footer div {
+background-color: #454557;
+padding: 40px;
+}
